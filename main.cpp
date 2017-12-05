@@ -38,4 +38,3 @@ void print (node* next) {
     print(next->getNext());
   }
 }
-# linked-list-1
