@@ -1,3 +1,7 @@
+/*Nicholas Rich
+12/5/2017
+a proof of concept that the linked list works
+*/
 #include "node.h"
 #include "student.h"
 
